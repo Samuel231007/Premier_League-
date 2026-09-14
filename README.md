@@ -55,16 +55,6 @@ inspirado en el modelo de Maher (1982), habitual como punto de partida en analí
 
 Estas son extensiones naturales para una versión futura del modelo.
 
-## Pruebas
-
-El proyecto incluye pruebas unitarias para el modelo predictivo en `tests/test_predictive_model.py`,
-cubriendo cálculo de fuerzas de equipo, la función de Poisson, la matriz de marcadores, y el
-flujo completo de `predict_match`. Para correrlas:
-
-```bash
-pip install pytest
-pytest tests/ -v
-```
 
 ## Estructura del proyecto
 
