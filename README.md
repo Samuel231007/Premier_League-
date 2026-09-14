@@ -7,15 +7,7 @@ incluyendo resultados, goles, tiros, tarjetas, córners y árbitro por partido.
 público [`datasets/football-datasets`](https://github.com/datasets/football-datasets) en GitHub
 (licencia Public Domain Dedication and License v1.0).
 
-## Capturas de pantalla
 
-> Corre la app localmente (ver "Cómo ejecutarlo" abajo) y reemplaza estos marcadores con tus
-> propias capturas, guardándolas en una carpeta `docs/screenshots/`. Por ejemplo:
-> `![Tabla de posiciones](docs/screenshots/tabla.png)`
-
-| Tabla de posiciones | Predicción |
-|---|---|
-| _(agrega tu captura aquí)_ | _(agrega tu captura aquí)_ |
 
 ## Cómo ejecutarlo
 
